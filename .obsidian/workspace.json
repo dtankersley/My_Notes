@@ -1,0 +1,328 @@
+{
+  "main": {
+    "id": "688f706c54a7ce78",
+    "type": "split",
+    "children": [
+      {
+        "id": "381de829d3069476",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a87b28656dd7ec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/Real Estate photographer Biz plan from Grok Ai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Real Estate photographer Biz plan from Grok Ai"
+            }
+          },
+          {
+            "id": "97d211c748386146",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tips for attracting clients.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tips for attracting clients"
+            }
+          },
+          {
+            "id": "7c8025ccd60abad8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "0 Inbox/Eli’s Real Estate Photography Beginner Launch Guide.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Eli’s Real Estate Photography Beginner Launch Guide"
+            }
+          },
+          {
+            "id": "a0750a78ec272fdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "David Stultz - Ho I grew my RE Photo Biz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "David Stultz - Ho I grew my RE Photo Biz"
+            }
+          },
+          {
+            "id": "ea4a1fb47d091ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nathan Cool - This is why Realtors aren't hiring you.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nathan Cool - This is why Realtors aren't hiring you"
+            }
+          },
+          {
+            "id": "3188edd0481c3b15",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "0 Inbox/Eli’s Real Estate Photography Beginner Launch Guide.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Eli’s Real Estate Photography Beginner Launch Guide"
+            }
+          },
+          {
+            "id": "5622b73fdf240a24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Orthodoxy/Prayers/Prayer before Holy Communion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prayer before Holy Communion"
+            }
+          },
+          {
+            "id": "3bcbbebcfe709eae",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2 Areas/Orthodoxy/Orthodox Faith/Orthodox Survival Course - Fr. Seraphim Rose.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Orthodox Survival Course - Fr. Seraphim Rose"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1be8a0dc15ff0a63",
+    "type": "split",
+    "children": [
+      {
+        "id": "940bda57288c88ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27874da8b695fd98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4fa977dec6caef49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ff4af424136a669a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5
+  },
+  "right": {
+    "id": "adc63e4caf55236f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a1c5e72bae52312",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "111bad6135359d30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Deposition.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Deposition"
+            }
+          },
+          {
+            "id": "103de70599ab9567",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Deposition.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Deposition"
+            }
+          },
+          {
+            "id": "d89fe35d36c1afc3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "415f77ef2436dcb8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e7fe2ae9c32c6ed1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Deposition.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Deposition"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3bcbbebcfe709eae",
+  "lastOpenFiles": [
+    "2 Areas/Orthodoxy/Orthodox Faith/Iconography of the Soul - MontaNika Conference.pdf",
+    "2 Areas/Orthodoxy/Orthodox Faith/General Orthodox Notes.md",
+    "2 Areas/Orthodoxy/Orthodox Faith/Chrysostom-Brotherly-Love.pdf",
+    "2 Areas/Orthodoxy/Orthodox Faith/Book of Jubilees.md",
+    "2 Areas/Orthodoxy/Orthodox Faith/Bible.md",
+    "2 Areas/Orthodoxy/Orthodox Faith/1 Who God Created Us To Become.pdf",
+    "0 Inbox/Eli’s Real Estate Photography Beginner Launch Guide.pdf",
+    "2 Areas/Career/Ministries Coordinator Notes.md",
+    "1 Projects/Linux/General Linux notes/Enterprise Linux Hardening for a DevOps Interview requirements.md",
+    "2 Areas/Career/Devops/Linux Cheat sheets/Linux General CheatSheet.png",
+    "2 Areas/Career/Devops/Linux Cheat sheets/Tmux CheatSheet.png",
+    "2 Areas/Career/Devops/Linux Cheat sheets/Unconfirmed 206301.crdownload",
+    "2 Areas/Career/Devops/Linux Cheat sheets/Sway CheatSheet.png",
+    "2 Areas/Career/Devops/Linux Cheat sheets/Pasted image 20260416110715.png",
+    "2 Areas/Career/Real Estate Photography/Tips for attracting clients.md",
+    "One-Pot Pasta.md",
+    "2 Areas/Career/Real Estate Photography/Common Mistakes in Real Estate Photography.md",
+    "2 Areas/Career/Real Estate Photography/Nathan Cool - This is why Realtors aren't hiring you.md",
+    "2 Areas/Career/Real Estate Photography",
+    "2 Areas/Career/Real Estate Photography/David Stultz - Ho I grew my RE Photo Biz.md",
+    "Real Estate Photography/Real Estate Photography",
+    "2 Areas/Career/Real Estate Photography/Eli Jones - Intro to RE Marketing.md",
+    "2 Areas/Career/Real Estate Photography/Deposition.md",
+    "2 Areas/Career/GHL/Business plan Blueprint (per chatGPT).md",
+    "RHCSA EX200 notes/RedHat CSA EX200.md",
+    "2 Areas/Career/Devops/why devops engineers need to write code.md",
+    "2 Areas/Career/To-Do's.md",
+    "2 Areas/Career/T.E.C.H. Framework.md",
+    "2 Areas/Career/Devops/Skills to Develop.md",
+    "2 Areas/Career/Devops/Containers - The Big Picture.md",
+    "2 Areas/Career/GHL/How to Start a Digital Marketing Agency | Complete Model for 2026.md",
+    "2 Areas/Career/GHL/How to learn AI  - Dan Martell.md",
+    "2 Areas/Career/Devops/Harvard's introduction to programming with Python.md",
+    "2 Areas/Career/Marketing - General/Your_ACQ_100MScalingRoadmap-Stage0_.pdf",
+    "2 Areas/Career/Devops",
+    "2 Areas/Career/GHL",
+    "2 Areas/Career/Marketing - General",
+    "2 Areas/Career/Devops/Kubernetes course on Udemy.md",
+    "2 Areas/Career/Goals 2026.md",
+    "1 Projects/Plan a trip to Japan (example)/Restarant Ideas.md",
+    "0 Inbox/TankMediaGroup.png",
+    "0 Inbox/TMG-Silver.png",
+    "0 Inbox/minni-logo.png",
+    "0 Inbox/Gemini_Generated_Image_57fiem57fiem57fi.png",
+    "0 Inbox/Gemini_Generated_Image_1qhuhd1qhuhd1qhu.png",
+    "0 Inbox/Gemini_Generated_Image_1p8opn1p8opn1p8o.png"
+  ]
+}
